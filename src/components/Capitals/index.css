@@ -1,0 +1,49 @@
+.bg-container {
+  background-color: #93c5fd;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  padding: 30px;
+  background-color: #ffffff;
+  width: 40%;
+  height: 40%;
+  border-radius: 12px;
+  box-shadow: 0px 4px 16px 0px #726dbb;
+}
+.Capitals-heading {
+  color: #000000;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+.Capitals-description {
+  color: #cbd2d9;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: 'Roboto';
+}
+.input {
+  border-radius: 3px;
+  width: 200px;
+  padding: 8px;
+  color: #000000;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.capitals {
+  display: flex;
+  align-items: center;
+}
+
+.capital-description1 {
+  color: #000000;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
